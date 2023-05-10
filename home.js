@@ -31,7 +31,7 @@ const products = [
       description: "Candy",
       type: "gummy",
       image:
-      "https://www.foodandwine.com/thmb/Q3pBGRKZfIWyTsX3Y52yiU0JZaA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1900-hersheys-chocolate-bar-2000-ee974cb9742649a79f1d287f1985d41a.jpg,"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-2LlQLhKiu1gs-6fBDyir6U2FrHJHCMNpFQ&usqp=CAU  "
     },
     {
       name: "candyFive",
@@ -39,7 +39,7 @@ const products = [
       description: "Candy",
       type: "chocolate",
       image:
-      "https://res.cloudinary.com/ybmedia/image/upload/c_crop,h_1333,w_2000,x_0,y_0/c_scale,f_auto,q_auto,w_700/v1/m/9/0/909712c63e3effcef05fe62faabfc4d0d5a53f25/mars-bar-1932.jpg,"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLIahT8aPIa0HkVsFQRX5Rv0STqa5NiwFVGw&usqp=CAU"
         
     },
   ];
